@@ -1,1 +1,5 @@
-!pip install pandas numpy plotly.express dash dash_bootstrap_components 
+pandas 
+numpy 
+plotly.express 
+dash 
+dash_bootstrap_components 
